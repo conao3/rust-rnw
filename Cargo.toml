@@ -1,0 +1,10 @@
+[package]
+name = "rnw"
+version = "0.1.0"
+edition = "2018"
+authors = ["Naoya Yamashita <conao3@gmail.com>"]
+description = "Project generator for general purpose."
+license = "Apache-2.0"
+
+[dependencies]
+rustyline = "8.2.0"
