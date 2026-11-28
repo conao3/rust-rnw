@@ -1,9 +1,10 @@
-# rnw
+<p align="center"><img src="docs/assets/banner.png" alt="rnw: A command-line tool that scaffolds new projects with sensible defaults" width="880"></p>
+<p align="center"><strong>A command-line tool that scaffolds new projects with sensible defaults</strong></p>
+<p align="center"><a href="LICENSE"><img src="https://img.shields.io/github/license/conao3/rust-rnw" alt="License"></a> <a href="https://github.com/conao3/rust-rnw/stargazers"><img src="https://img.shields.io/github/stars/conao3/rust-rnw?style=flat" alt="GitHub stars"></a></p>
+<p align="center"><a href="#installation">Installation</a> | <a href="#usage">Usage</a> | <a href="#contributing">Contributing</a> | <a href="#license">License</a></p>
+<h1>rnw</h1>
 
 A general-purpose project generator written in Rust.
-
-[![License](https://img.shields.io/crates/l/rnw.svg)](https://github.com/conao3/rust-rnw/blob/master/LICENSE)
-[![Crates.io](https://img.shields.io/crates/v/rnw.svg)](https://crates.io/crates/rnw)
 
 ## Overview
 
